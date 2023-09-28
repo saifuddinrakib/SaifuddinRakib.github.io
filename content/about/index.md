@@ -2,21 +2,20 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
+  - Design
   - Coding
-  - Reading
-  - Painting
-  - Crafting
+  - Machine learning
+  - Sketching
   - Problem Solving
   - Team Management
-  - Mentoring
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm Saifuddin Rakib, from Dhaka, also known as capital City of Bangladesh.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+I possess entrepreneurial skills, critical thinking abilities, and a design-thinking mindset that enable me to excel in the research and development of IoT-related products. I am committed to staying up-to-date with the latest developments in design and AI, and always seeking new challenges to expand my skills and knowledge
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
+I am working as mechanical Design Engineer at [BJIT Group](https://bjitgroup.com/)
 
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
+I am a Solidworks Champions at [Dassault Systems](https://www.credly.com/badges/2751371b-614a-4711-b94e-d17018d964bd/public_url) that program was designed to recognize the most passionate SolidWorks users around the world
 
 Here are a few of the other activities that I love to do!

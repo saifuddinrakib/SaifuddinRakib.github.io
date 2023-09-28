@@ -7,6 +7,5 @@ range: 'Sep 2020 - Present'
 url: 'https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/'
 ---
 
-- Grown knowledge in a peer-to-peer learning environment.
-- Build solutions for local businesses and the community.
-- Attained several technical workshops.
+- Led R&D efforts, securing utility patent certification through collaboration with software and AI teams, driving MVP development with a startup mindset.
+- Oversaw end-to-end mechanical design, ensuring industry compliance and production success, while streamlining processes for efficiency.
