@@ -1,11 +1,10 @@
 ---
 date: '2020-09-21'
-title: 'Member'
-company: 'DSV - SVVV'
-location: remote
-range: 'Sep 2020 - Present'
+title: 'Mecahnical Design Engineer'
+company: 'Map Group'
+range: 'Feb 2020 - Aug 21'
 url: 'https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/'
 ---
 
-- Led R&D efforts, securing utility patent certification through collaboration with software and AI teams, driving MVP development with a startup mindset.
-- Oversaw end-to-end mechanical design, ensuring industry compliance and production success, while streamlining processes for efficiency.
+- Designed structural chassis and routing components, optimizing cost efficiency with marine-grade materials and enhancing product customization for an uplifting ladder.
+- Developed a detailed 3D CAD model for manufacturing a versatile Dredger Machine, Emergency ladder, and Pump Unit assembly, catering to the specific needs of the Bangladesh Fire Service Civil Defense.

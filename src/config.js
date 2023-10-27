@@ -1,22 +1,22 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Saifuddin Rakib',
   siteDescription:
     'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://saifuddinrakib.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Yashita Namdeo',
   location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  email: 'saifrakib1@gmail.com',
+  github: 'https://github.com/saifuddinrakib',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/saifuddinrakib',
     },
     {
       name: 'Linkedin',
