@@ -1,15 +1,15 @@
 module.exports = {
   siteTitle: 'Saifuddin Rakib',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Saifuddin Rakib is Mechanical Design Engineer, based in Bangladesh, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
+    'Saifuddinrakib, Saifuddin, Rakib, saif, Mechanical Engineer, Researcher, Machine learning Engineer, python, Solidworks, product development, Dhaka',
   siteUrl: 'https://saifuddinrakib.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
+  name: 'Saifuddin Rakib',
+  location: 'Dhaka, Bangladesh',
   email: 'saifrakib1@gmail.com',
   github: 'https://github.com/saifuddinrakib',
   twitterHandle: '@',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/saifuddin-rakib/',
     },
     {
       name: 'Codepen',
