@@ -7,10 +7,10 @@ skills:
   - Machine learning
   - Sketching
   - Problem Solving
-  - Team Management
+  - Product Management
 ---
 
-Hello! I'm Saifuddin Rakib, from Dhaka, also known as capital City of Bangladesh.
+Hello! I'm Saif, from Dhaka, Bangladesh.
 
 I possess entrepreneurial skills, critical thinking abilities, and a design-thinking mindset that enable me to excel in the research and development of IoT-related products. I am committed to staying up-to-date with the latest developments in design and AI, and always seeking new challenges to expand my skills and knowledge
 
