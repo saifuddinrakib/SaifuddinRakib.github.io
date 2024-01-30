@@ -23,16 +23,16 @@ module.exports = {
       url: 'https://www.linkedin.com/in/saifuddin-rakib/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      name: 'Grabcad',
+      url: 'https://grabcad.com/saifuddin.rakib-2/',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      name: 'Medium',
+      url: 'https://medium.com/@saifuddinrakib/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/SaiPiRakib/',
     },
   ],
 
