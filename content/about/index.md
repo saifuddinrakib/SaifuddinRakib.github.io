@@ -8,7 +8,9 @@ skills:
   - Sketching
   - Problem Solving
   - Product Management
+  - Project Management
   - AI
+
 ---
 
 Hello! I'm Saif, from Dhaka, Bangladesh.
